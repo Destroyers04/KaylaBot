@@ -21,4 +21,4 @@ async def on_ready():
     await channel.send("Good morning!")
 
 if __name__ == "__main__":
-    bot.run("MTE2MzQ5MTQ2NTcwNDUyMTc3MA.GTo_UV.YIp5AZ__fM_Y8bHiaHT8W1_GU93IKT2LUCvu6M")
+    bot.run("TOKENHERE")
