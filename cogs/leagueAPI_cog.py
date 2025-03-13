@@ -1,7 +1,7 @@
 import requests
 import urllib.parse
 
-api_key = "RGAPI-7d410fe1-0011-46f5-ab74-31d794fed409"
+api_key = "apikey"
 
 class LeagueAPICog(commands.Cog):
     
